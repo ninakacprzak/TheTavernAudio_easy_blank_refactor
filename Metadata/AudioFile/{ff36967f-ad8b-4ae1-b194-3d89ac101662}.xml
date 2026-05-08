@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{ff36967f-ad8b-4ae1-b194-3d89ac101662}">
+		<property name="assetPath">
+			<value>os_walkingonwood6.flac</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.19075</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{0b1a2518-7770-4e55-8306-6d9d2da96e3b}</destination>
+		</relationship>
+	</object>
+</objects>

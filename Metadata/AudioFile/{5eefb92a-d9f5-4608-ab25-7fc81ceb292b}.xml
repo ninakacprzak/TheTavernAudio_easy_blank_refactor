@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{5eefb92a-d9f5-4608-ab25-7fc81ceb292b}">
+		<property name="assetPath">
+			<value>os_walkingonrock3.flac</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.19004166666666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{0b1a2518-7770-4e55-8306-6d9d2da96e3b}</destination>
+		</relationship>
+	</object>
+</objects>
