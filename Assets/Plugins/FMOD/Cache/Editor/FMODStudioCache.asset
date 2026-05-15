@@ -160,7 +160,7 @@ MonoBehaviour:
   StringsBanks:
   - {fileID: 4016081186164970675}
   cacheVersion: 131859
-  cacheTime: 639138540861543831
+  cacheTime: 639144515340970114
   SerializableEventsDict:
   - key: event:/footsteps
     index: 0
@@ -187,7 +187,7 @@ MonoBehaviour:
   Path: ../../../Downloads/audio-20260508T113039Z-3-001/audio/audio223/audio_zajecia_1/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 639138540861528796
+  lastModified: 639144515340959925
   FileSizes:
   - Name: Desktop
     Value: 7779072
@@ -235,7 +235,7 @@ MonoBehaviour:
   Path: ../../../Downloads/audio-20260508T113039Z-3-001/audio/audio223/audio_zajecia_1/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 639138540861543831
+  lastModified: 639144515340970114
   FileSizes:
   - Name: Desktop
     Value: 1026
