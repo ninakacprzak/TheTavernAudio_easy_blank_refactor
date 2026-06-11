@@ -526,8 +526,8 @@ MonoBehaviour:
   switchSettingsMigration: 1
   HasSourceProject: 1
   HasPlatforms: 1
-  sourceProjectPath: ../../../Downloads/audio-20260508T113039Z-3-001/audio/audio223/audio_zajecia_1/audio_zajecia_1.fspro
-  sourceBankPath: ../../../Downloads/audio-20260508T113039Z-3-001/audio/audio223/audio_zajecia_1/Build
+  sourceProjectPath: audio_zajecia_1.fspro
+  sourceBankPath: Build
   sourceBankPathUnformatted: 
   BankRefreshCooldown: 1
   ShowBankRefreshWindow: 1
@@ -564,7 +564,7 @@ MonoBehaviour:
   SharedLibraryUpdateStage: 0
   SharedLibraryTimeSinceStart: 0
   CurrentVersion: 131859
-  HideSetupWizard: 0
+  HideSetupWizard: 1
   LastEventReferenceScanVersion: 131617
   Platforms:
   - {fileID: -7113343091406021913}
