@@ -267,7 +267,7 @@ MonoBehaviour:
   StringsBanks:
   - {fileID: 8611812091285204822}
   cacheVersion: 131859
-  cacheTime: 639167789652047024
+  cacheTime: 639171300243859475
   SerializableEventsDict:
   - key: event:/footsteps
     index: 0
@@ -324,10 +324,10 @@ MonoBehaviour:
   Path: Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 639167789652031974
+  lastModified: 639171300243848904
   FileSizes:
   - Name: Desktop
-    Value: 7780160
+    Value: 7781184
   Exists: 1
 --- !u!114 &2390897743149932115
 MonoBehaviour:
@@ -495,10 +495,10 @@ MonoBehaviour:
   Path: Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 639167789652047024
+  lastModified: 639171300243859475
   FileSizes:
   - Name: Desktop
-    Value: 1156
+    Value: 1370
   Exists: 1
 --- !u!114 &8757824315612319109
 MonoBehaviour:
