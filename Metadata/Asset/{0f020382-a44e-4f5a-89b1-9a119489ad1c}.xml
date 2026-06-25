@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{0f020382-a44e-4f5a-89b1-9a119489ad1c}">
+		<property name="assetPath">
+			<value>Medieval Fantasy Music/WAV/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{0b1a2518-7770-4e55-8306-6d9d2da96e3b}</destination>
+		</relationship>
+	</object>
+</objects>
