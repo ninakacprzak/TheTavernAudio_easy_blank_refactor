@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{0521772c-7810-46f5-a3ac-b45366e0e897}">
+		<property name="assetPath">
+			<value>Fantasy Tavern Music Pack/ChrisGruchacz_Fantasy_Tavern_Music_Pack/Music/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{0b1a2518-7770-4e55-8306-6d9d2da96e3b}</destination>
+		</relationship>
+	</object>
+</objects>
